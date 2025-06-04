@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- 둥근 모서리 정사각형 배경 -->
+  <rect x="5" y="5" width="90" height="90" rx="20" ry="20" fill="#000" />
+
+  <!-- 별 모양 -->
+  <polygon
+    fill="#fff"
+    stroke="#fff"
+    stroke-width="2"
+    stroke-linejoin="round"
+    points="50,15 61,39 88,39 66,57 74,84 50,68 26,84 34,57 12,39 39,39"
+  />
+</svg>
