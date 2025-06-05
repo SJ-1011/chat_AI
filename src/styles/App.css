@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+.icon-button {
+  @apply p-2 hover:bg-blue-200 hover:rounded-md transition-all cursor-pointer;
+}
