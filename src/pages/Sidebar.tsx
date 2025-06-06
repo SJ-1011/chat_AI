@@ -23,7 +23,7 @@ function Sidebar() {
       )}
 
       {isSidebarOpen && (
-        <nav className="bg-[#F0F8FF] lg:min-w-[18.75rem] h-screen">
+        <nav className="bg-[#F0F8FF] lg:min-w-[18.75rem] h-screen fixed z-50">
           <div className="flex justify-between m-4">
             {/* 아이콘 */}
             <a href="/" aria-label="홈" className="icon-button">
